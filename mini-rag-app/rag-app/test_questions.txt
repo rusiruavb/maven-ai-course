@@ -1,0 +1,35 @@
+Test Questions for Mini RAG Application
+
+1. What are the company's vacation policies?
+   Expected: Should work well - direct fact retrieval from company handbook
+   Source: company_handbook.txt
+
+2. How do I reset my product password?
+   Expected: Should work well - FAQ-style question with step-by-step answer
+   Source: product_faq.txt
+
+3. Explain how neural networks work
+   Expected: May struggle - requires comprehensive explanation and synthesis
+   Source: tech_blog.txt
+
+4. What employee benefits are available?
+   Expected: Should work well - list retrieval from handbook
+   Source: company_handbook.txt
+
+5. What are the system requirements for the product?
+   Expected: Should work well - specific technical details from FAQ
+   Source: product_faq.txt
+
+Additional challenging questions to test limitations:
+
+6. Compare the company's benefits to industry standards
+   Expected: Will fail - requires external knowledge and comparison
+
+7. How many days of vacation do I get in my first year?
+   Expected: May struggle - requires arithmetic (15 days minus 90-day waiting period)
+
+8. What's the weather today?
+   Expected: Will fail - completely out of context
+
+9. What changed in the vacation policy last month?
+   Expected: Will fail - requires temporal reasoning and version history

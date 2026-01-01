@@ -1,0 +1,55 @@
+CloudSync Pro - Frequently Asked Questions
+
+GETTING STARTED
+
+Q: What is CloudSync Pro?
+A: CloudSync Pro is a cloud-based file synchronization and backup service that keeps your files secure and accessible across all your devices. It offers real-time sync, version history, and enterprise-grade encryption.
+
+Q: What are the system requirements?
+A: CloudSync Pro supports Windows 10 or later, macOS 10.14 or later, iOS 14+, and Android 10+. You need at least 4GB of RAM and 500MB of free disk space for the desktop application. A stable internet connection with minimum 5 Mbps is recommended for optimal performance.
+
+ACCOUNT MANAGEMENT
+
+Q: How do I create an account?
+A: Visit cloudsyncpro.com/signup and click "Start Free Trial". Enter your email, create a password, and verify your email address. Your 30-day free trial includes all Pro features with 100GB of storage.
+
+Q: How do I reset my password?
+A: Go to the login page and click "Forgot Password". Enter your email address and click "Send Reset Link". Check your email for a password reset link (it expires in 24 hours). Click the link and enter your new password. For security, your new password must be at least 12 characters and include uppercase, lowercase, numbers, and special characters.
+
+Q: Can I change my email address?
+A: Yes, log into your account dashboard, go to Settings > Account Information, and click "Change Email". You'll need to verify the new email address before the change takes effect.
+
+FEATURES AND FUNCTIONALITY
+
+Q: How does file versioning work?
+A: CloudSync Pro automatically saves previous versions of your files. We keep versions for 90 days on Pro plans and 365 days on Enterprise plans. You can restore any previous version by right-clicking the file and selecting "View Version History".
+
+Q: What file types are supported?
+A: CloudSync Pro supports all file types with no restrictions. Individual file size limit is 50GB on Pro plans and 100GB on Enterprise plans.
+
+Q: Can I share files with others?
+A: Yes, right-click any file or folder and select "Share". You can generate a shareable link with optional password protection and expiration date. You can also invite specific users by email and set their permission level (view, comment, or edit).
+
+TROUBLESHOOTING
+
+Q: Why aren't my files syncing?
+A: Check these common issues: ensure you're connected to the internet, verify CloudSync Pro is running, check that you haven't exceeded your storage quota, and make sure the file name doesn't contain invalid characters. Try pausing and resuming sync from the system tray icon.
+
+Q: How do I uninstall CloudSync Pro?
+A: On Windows, go to Settings > Apps > CloudSync Pro > Uninstall. On Mac, drag CloudSync Pro from Applications to Trash. Your cloud files remain safe and accessible via web browser after uninstalling the desktop app.
+
+SECURITY AND PRIVACY
+
+Q: How secure is my data?
+A: CloudSync Pro uses AES-256 encryption for data at rest and TLS 1.3 for data in transit. We employ zero-knowledge architecture meaning your files are encrypted before leaving your device. We never have access to your unencrypted data or encryption keys.
+
+Q: Where are the servers located?
+A: Our servers are distributed across multiple data centers in the US, Europe, and Asia. You can select your preferred data region in account settings to comply with data residency requirements.
+
+BILLING AND SUBSCRIPTIONS
+
+Q: What payment methods do you accept?
+A: We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and wire transfer for annual Enterprise plans.
+
+Q: Can I upgrade or downgrade my plan?
+A: Yes, anytime. Go to Settings > Billing > Change Plan. Upgrades take effect immediately. Downgrades take effect at the end of your current billing cycle. If downgrading exceeds your new storage limit, you'll have 30 days to remove excess files.
